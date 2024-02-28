@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "",
+  "images": [
+    {
+      "name": "button.png",
+      "path": "D:/Proyectos/naves/arte/sprite/gui/button.png",
+      "folder": ""
+    },
+    {
+      "name": "buttonpause.png",
+      "path": "D:/Proyectos/naves/arte/sprite/gui/buttonpause.png",
+      "folder": ""
+    },
+    {
+      "name": "hud.png",
+      "path": "D:/Proyectos/naves/arte/sprite/gui/hud.png",
+      "folder": ""
+    },
+    {
+      "name": "iconlive.png",
+      "path": "D:/Proyectos/naves/arte/sprite/gui/iconlive.png",
+      "folder": ""
+    },
+    {
+      "name": "robotEneas.png",
+      "path": "D:/Proyectos/naves/arte/sprite/gui/robotEneas.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "texture",
+    "textureFormat": "png",
+    "removeFileExtension": true,
+    "prependFolderName": true,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "JSON (hash)",
+    "fileName": "pack-result",
+    "savePath": "",
+    "width": 2048,
+    "height": 2048,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 0,
+    "extrude": 0,
+    "allowRotation": false,
+    "allowTrim": false,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "MaxRectsBin",
+    "packerMethod": "BestShortSideFit"
+  }
+}

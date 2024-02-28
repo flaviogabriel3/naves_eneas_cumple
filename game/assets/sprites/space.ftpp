@@ -1,0 +1,196 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "",
+  "images": [
+    {
+      "name": "armageEnemigo.png",
+      "path": "D:/Proyectos/naves/arte/sprite/space/armageEnemigo.png",
+      "folder": ""
+    },
+    {
+      "name": "background.jpg",
+      "path": "D:/Proyectos/naves/arte/sprite/space/background.jpg",
+      "folder": ""
+    },
+    {
+      "name": "blue-planet.png",
+      "path": "D:/Proyectos/naves/arte/sprite/space/blue-planet.png",
+      "folder": ""
+    },
+    {
+      "name": "blue.png",
+      "path": "D:/Proyectos/naves/arte/sprite/space/blue.png",
+      "folder": ""
+    },
+    {
+      "name": "bombaEnemigo.png",
+      "path": "D:/Proyectos/naves/arte/sprite/space/bombaEnemigo.png",
+      "folder": ""
+    },
+    {
+      "name": "brown-planet.png",
+      "path": "D:/Proyectos/naves/arte/sprite/space/brown-planet.png",
+      "folder": ""
+    },
+    {
+      "name": "enemigo1.png",
+      "path": "D:/Proyectos/naves/arte/sprite/space/enemigo1.png",
+      "folder": ""
+    },
+    {
+      "name": "enemigo2.png",
+      "path": "D:/Proyectos/naves/arte/sprite/space/enemigo2.png",
+      "folder": ""
+    },
+    {
+      "name": "explodeObstacle.png",
+      "path": "D:/Proyectos/naves/arte/sprite/space/explodeObstacle.png",
+      "folder": ""
+    },
+    {
+      "name": "explosion.png",
+      "path": "D:/Proyectos/naves/arte/sprite/space/explosion.png",
+      "folder": ""
+    },
+    {
+      "name": "galaxy.png",
+      "path": "D:/Proyectos/naves/arte/sprite/space/galaxy.png",
+      "folder": ""
+    },
+    {
+      "name": "gas-giant.png",
+      "path": "D:/Proyectos/naves/arte/sprite/space/gas-giant.png",
+      "folder": ""
+    },
+    {
+      "name": "iconExplode.png",
+      "path": "D:/Proyectos/naves/arte/sprite/space/iconExplode.png",
+      "folder": ""
+    },
+    {
+      "name": "iconlive.png",
+      "path": "D:/Proyectos/naves/arte/sprite/space/iconlive.png",
+      "folder": ""
+    },
+    {
+      "name": "laser.png",
+      "path": "D:/Proyectos/naves/arte/sprite/space/laser.png",
+      "folder": ""
+    },
+    {
+      "name": "laserEnemigo.png",
+      "path": "D:/Proyectos/naves/arte/sprite/space/laserEnemigo.png",
+      "folder": ""
+    },
+    {
+      "name": "moon1.png",
+      "path": "D:/Proyectos/naves/arte/sprite/space/moon1.png",
+      "folder": ""
+    },
+    {
+      "name": "moon2.png",
+      "path": "D:/Proyectos/naves/arte/sprite/space/moon2.png",
+      "folder": ""
+    },
+    {
+      "name": "moon3.png",
+      "path": "D:/Proyectos/naves/arte/sprite/space/moon3.png",
+      "folder": ""
+    },
+    {
+      "name": "moon4.png",
+      "path": "D:/Proyectos/naves/arte/sprite/space/moon4.png",
+      "folder": ""
+    },
+    {
+      "name": "moon5.png",
+      "path": "D:/Proyectos/naves/arte/sprite/space/moon5.png",
+      "folder": ""
+    },
+    {
+      "name": "moon6.png",
+      "path": "D:/Proyectos/naves/arte/sprite/space/moon6.png",
+      "folder": ""
+    },
+    {
+      "name": "moon7.png",
+      "path": "D:/Proyectos/naves/arte/sprite/space/moon7.png",
+      "folder": ""
+    },
+    {
+      "name": "nebula.png",
+      "path": "D:/Proyectos/naves/arte/sprite/space/nebula.png",
+      "folder": ""
+    },
+    {
+      "name": "propulsiontorpedo.png",
+      "path": "D:/Proyectos/naves/arte/sprite/space/propulsiontorpedo.png",
+      "folder": ""
+    },
+    {
+      "name": "purple-planet.png",
+      "path": "D:/Proyectos/naves/arte/sprite/space/purple-planet.png",
+      "folder": ""
+    },
+    {
+      "name": "ship.png",
+      "path": "D:/Proyectos/naves/arte/sprite/space/ship.png",
+      "folder": ""
+    },
+    {
+      "name": "sun.png",
+      "path": "D:/Proyectos/naves/arte/sprite/space/sun.png",
+      "folder": ""
+    },
+    {
+      "name": "taladro.png",
+      "path": "D:/Proyectos/naves/arte/sprite/space/taladro.png",
+      "folder": ""
+    },
+    {
+      "name": "torpedo.png",
+      "path": "D:/Proyectos/naves/arte/sprite/space/torpedo.png",
+      "folder": ""
+    },
+    {
+      "name": "toucharea.png",
+      "path": "D:/Proyectos/naves/arte/sprite/space/toucharea.png",
+      "folder": ""
+    },
+    {
+      "name": "white.png",
+      "path": "D:/Proyectos/naves/arte/sprite/space/white.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "texture",
+    "textureFormat": "png",
+    "removeFileExtension": true,
+    "prependFolderName": true,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 0.5,
+    "filter": "none",
+    "exporter": "JSON (hash)",
+    "fileName": "pack-result",
+    "savePath": "",
+    "width": 2048,
+    "height": 2048,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 0,
+    "extrude": 0,
+    "allowRotation": false,
+    "allowTrim": false,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "MaxRectsBin",
+    "packerMethod": "BestShortSideFit"
+  }
+}
