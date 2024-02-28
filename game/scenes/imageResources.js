@@ -11,18 +11,18 @@ export class ImagesResources{
 
     loadImagesGame(scene, low){
         if (low){
-            scene.load.atlas('space', 'https://github.com/flaviogabriel3/naves_eneas_cumple/game/assets/sprites/spacelow.png', 'https://github.com/flaviogabriel3/naves_eneas_cumple/game/assets/sprites/spacelow.json');
-            scene.load.atlas('obstacles', 'https://github.com/flaviogabriel3/naves_eneas_cumple/game/assets/sprites/obstacleslow.png', 'https://github.com/flaviogabriel3/naves_eneas_cumple/game/assets/sprites/obstacleslow.json');
+            scene.load.atlas('space', 'game/assets/sprites/spacelow.png', 'game/assets/sprites/spacelow.json');
+            scene.load.atlas('obstacles', 'game/assets/sprites/obstacleslow.png', 'game/assets/sprites/obstacleslow.json');
         } else {
-            scene.load.atlas('space', 'https://github.com/flaviogabriel3/naves_eneas_cumple/game/assets/sprites/space.png', 'https://github.com/flaviogabriel3/naves_eneas_cumple/game/assets/sprites/space.json');
-            scene.load.atlas('obstacles', 'https://github.com/flaviogabriel3/naves_eneas_cumple/game/assets/sprites/obstacles.png', 'https://github.com/flaviogabriel3/naves_eneas_cumple/game/assets/sprites/obstacles.json');
+            scene.load.atlas('space', 'game/assets/sprites/space.png', 'game/assets/sprites/space.json');
+            scene.load.atlas('obstacles', 'game/assets/sprites/obstacles.png', 'game/assets/sprites/obstacles.json');
         }
     }
 
     loadGUI(scene, low){
         if (low)
-            scene.load.atlas('gui', 'https://github.com/flaviogabriel3/naves_eneas_cumple/game/assets/gui/guilow.png', 'https://github.com/flaviogabriel3/naves_eneas_cumple/game/assets/gui/guilow.json');
+            scene.load.atlas('gui', 'game/assets/gui/guilow.png', 'game/assets/gui/guilow.json');
         else
-            scene.load.atlas('gui', 'https://github.com/flaviogabriel3/naves_eneas_cumple/game/assets/gui/gui.png', 'https://github.com/flaviogabriel3/naves_eneas_cumple/game/assets/gui/gui.json');
+            scene.load.atlas('gui', 'game/assets/gui/gui.png', 'game/assets/gui/gui.json');
     }
 }
