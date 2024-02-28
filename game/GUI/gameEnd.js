@@ -68,7 +68,7 @@ export class GameEnd extends Dialog
          this.textPause = this.make.text({
              x: DeviceSize.WIDTH_MIDDLE,
              y: this.targetHeight*0.4,
-             text: 'Haz salvado al planeta de la invasión.\n\n Te invitamos a festejar la victoria con los demás guerreros el sábado 9 de marzo en Rufino Mir 265 de 13.15 a 17.45 hs.\n\n¡¡¡No faltes!!!',
+             text: 'Haz salvado al planeta de la invasión.\n\n Te invitamos a festejar la victoria con los demás guerreros el sábado 9 de marzo en Rufino Mir 265 de 13.15 a 15.45 hs.\n\n¡¡¡No faltes!!!',
              origin: { x: 0.5, y: 0.5 },
              style: {
                  fontFamily: 'Arial', 
