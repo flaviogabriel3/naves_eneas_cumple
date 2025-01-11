@@ -202,7 +202,7 @@ case 9:
                 this.obstacleMaxSpawn = 10;
                 this.obstacleTimeSpawn = 2000;
 
-                this.enemyClass = [Enemy2, Enemy1];
+                this.enemyClass = [Enemy2];
                 this.enemyforClassMax = [this.maxEnemyRow*this.maxEnemyColumn]
             break;
 
