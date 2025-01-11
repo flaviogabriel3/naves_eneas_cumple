@@ -20,7 +20,7 @@ export class ConfigLevel{
     obstacleTimeSpawn;
     bulletDelay;
 
-    maxLevels = 8;
+    maxLevels = 9;
 
     constructor(){
     }
@@ -186,7 +186,25 @@ export class ConfigLevel{
                 this.enemyClass = [Enemy2];
                 this.enemyforClassMax = [this.maxEnemyRow*this.maxEnemyColumn]
             break;
+case 9:
+                this.maxEnemyRow = 5;
+                this.maxEnemyColumn = 4;
+                this.maxCamikaseMode = 10;
+                this.enemyTimeSpawn = 400;
+                this.enemyTimeToPosicion = 1800;
+                this.maxRespawnEnemy = 10;
+            
+                this.weapon = Laser;
+                this.bulletDelay = 233;
+            
+                this.obstacleMinTimeTarget = 4000;
+                this.obstacleMaxTimeTarget = 5000;
+                this.obstacleMaxSpawn = 10;
+                this.obstacleTimeSpawn = 2000;
 
+                this.enemyClass = [Enemy2; Enemy1];
+                this.enemyforClassMax = [this.maxEnemyRow*this.maxEnemyColumn]
+            break;
 
         }
 
